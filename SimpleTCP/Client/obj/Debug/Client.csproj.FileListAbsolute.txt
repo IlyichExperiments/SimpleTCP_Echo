@@ -1,0 +1,6 @@
+C:\Документы\кодинг\SimpleTCP1\SimpleTCP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Документы\кодинг\SimpleTCP1\SimpleTCP\Client\bin\Debug\Client.exe.config
+C:\Документы\кодинг\SimpleTCP1\SimpleTCP\Client\bin\Debug\Client.exe
+C:\Документы\кодинг\SimpleTCP1\SimpleTCP\Client\bin\Debug\Client.pdb
+C:\Документы\кодинг\SimpleTCP1\SimpleTCP\Client\obj\Debug\Client.exe
+C:\Документы\кодинг\SimpleTCP1\SimpleTCP\Client\obj\Debug\Client.pdb
